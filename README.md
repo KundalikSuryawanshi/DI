@@ -8,6 +8,9 @@ Dependacy Injection, Dagger2, Hilt Study material.
 - single responsibility
 - code reusability
 
+- field injection - Field injection is used to set value object as dependency to the field of an object.
+- contructor injection - Constructor Injection is the act of statically defining the list of required Dependencies by specifying them as parameters to the class's constructor.
+
 ## Dagger
 - dagger is a fully static, compile-time dependacy injection framework
 - compile time checking is performed if dagger can create the required object
